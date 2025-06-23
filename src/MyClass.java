@@ -12,4 +12,7 @@ public class MyClass {
     // Techpro branch, version t1
     public String string4 = "Bu techpro branchinde olusturulmus bir stringdir";
 
+
+    // Techpro branch, version t2
+    public String string5 = "Bu techpro branchinde olusturulmus baska bir stringdir";
 }
