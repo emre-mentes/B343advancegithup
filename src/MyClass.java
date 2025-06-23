@@ -6,6 +6,8 @@ public class MyClass {
     //Version v2
     public String strin2 = "Bu da baska bir stringdir";
 
+    //Version v3
+    public String string3 = "Bu da cak daha baska bir stringdir";
 
 
 
