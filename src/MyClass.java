@@ -15,4 +15,7 @@ public class MyClass {
 
     // Techpro branch, version t2
     public String string5 = "Bu techpro branchinde olusturulmus baska bir stringdir";
+
+    //Version v5
+    public String string7 = "tarabyada villasiiii";
 }
