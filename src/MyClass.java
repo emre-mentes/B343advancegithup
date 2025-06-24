@@ -18,4 +18,12 @@ public class MyClass {
 
     //Version v5
     public String string7 = "tarabyada villasiiii";
+
+
+    //Techpro branch, version t3
+    public String string8 = "Hangi string oldugunun hesabani yapamadim.";
+
+    //Techpro branch, version t4
+    public String string9 = "dar geldi sana Ankara.";
+
 }
